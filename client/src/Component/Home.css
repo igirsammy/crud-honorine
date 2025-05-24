@@ -1,0 +1,19 @@
+
+.content{
+    display: flex;
+    height: 650px;
+    width: 1317px;
+    justify-content: center;
+    align-items: center;
+    background-color: skyblue;
+
+}
+.link{
+    display: flex;
+    justify-content: end;
+}
+/* .con{
+    width: 700px;
+    background-color: white;
+    
+} */

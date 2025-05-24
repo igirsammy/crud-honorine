@@ -1,0 +1,8 @@
+.Read {
+    display: flex;
+    height: 650px;
+    width: 1302px;
+    justify-content: center;
+    align-items: center;
+    background-color: skyblue;
+}

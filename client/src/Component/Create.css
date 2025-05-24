@@ -1,0 +1,13 @@
+.conte{
+        display: flex;
+        height: 651px;
+        width: 372%;
+        justify-content: center;
+        align-items: center;
+        background-color: skyblue;
+}
+h1{
+display: flex;
+justify-content: center;
+align-items: center;
+}
